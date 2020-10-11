@@ -16,4 +16,4 @@ In this part, we will revisit the Handwritten Digits Recognition task in Part 1,
 is the same MNIST dataset from Part I, but you may choose to use only a subset for training and testing, if speed performance with the 
 entire dataset becomes a bottleneck. For example, you may use only 6000 samples for training (each digit with 600 samples) and 1000 samples
 for testing (each digit with 100 samples). 
-# statistical_machine_learning_projects
+
